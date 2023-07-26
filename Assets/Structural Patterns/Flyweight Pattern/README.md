@@ -4,7 +4,7 @@
 Use sharing to support large numbers of fine-grained objects efficiently.
 <br>使用共享对象可有效地支持大量的细粒度的对象。
 
-![](https://github.com/QianMo/Unity-Design-Pattern/blob/master/UML_Picture/flyweight.gif)
+![](https://github.com/LionelPerrault/Unity-Design-Pattern/blob/master/UML_Picture/flyweight.gif)
 
 
 ## Participants

@@ -4,7 +4,7 @@
 Provide an interface for creating families of related or dependent objects without specifying their concrete classes.
 <br>提供一个接口，用于创建相关或者依赖对象的家族，而不需要指定具体的实现类。
 
-![](https://github.com/QianMo/Unity-Design-Pattern/blob/master/UML_Picture/abstract.gif)
+![](https://github.com/LionelPerrault/Unity-Design-Pattern/blob/master/UML_Picture/abstract.gif)
 
 
 ## Participants

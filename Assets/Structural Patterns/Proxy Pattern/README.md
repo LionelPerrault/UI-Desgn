@@ -4,7 +4,7 @@
 Provide a surrogate or placeholder for another object to control access to it.
 <br>为其他对象提供一种代理以控制对这个对象的访问。
 
-![](https://github.com/QianMo/Unity-Design-Pattern/blob/master/UML_Picture/proxy.gif)
+![](https://github.com/LionelPerrault/Unity-Design-Pattern/blob/master/UML_Picture/proxy.gif)
 
 
 ## Participants

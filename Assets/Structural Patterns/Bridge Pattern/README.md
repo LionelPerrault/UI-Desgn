@@ -4,7 +4,7 @@
 Decouple an abstraction from its implementation so that the two can vary independently.
 <br>将抽象和实现解耦，使得两者可以独立地变化。
 
-![](https://github.com/QianMo/Unity-Design-Pattern/blob/master/UML_Picture/bridge.gif)
+![](https://github.com/LionelPerrault/Unity-Design-Pattern/blob/master/UML_Picture/bridge.gif)
 
 
 ## Participants

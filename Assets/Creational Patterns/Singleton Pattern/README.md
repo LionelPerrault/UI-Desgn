@@ -4,7 +4,7 @@
 Ensure a class has only one instance and provide a global point of access to it.
 <br>确保某一个类只有一个实例，而且自行实例化并向整个系统提供这个实例。
 
-![](https://github.com/QianMo/Unity-Design-Pattern/blob/master/UML_Picture/singleton.gif)
+![](https://github.com/LionelPerrault/Unity-Design-Pattern/blob/master/UML_Picture/singleton.gif)
 
 
 ## Participants

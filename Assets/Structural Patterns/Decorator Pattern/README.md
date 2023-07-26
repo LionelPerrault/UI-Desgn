@@ -4,7 +4,7 @@
 Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.
 <br>动态地给一个对象添加一些额外的职责。就增加功能来说，装饰模式相比生成子类更为灵活。
 
-![](https://github.com/QianMo/Unity-Design-Pattern/blob/master/UML_Picture/decorator.gif)
+![](https://github.com/LionelPerrault/Unity-Design-Pattern/blob/master/UML_Picture/decorator.gif)
 
 
 ## Participants

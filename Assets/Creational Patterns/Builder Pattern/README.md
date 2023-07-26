@@ -4,7 +4,7 @@
 Separate the construction of a complex object from its representation so that the same construction process can create different representations.
 <br>将一个复杂对象的构造与它的表示分离，使同样的构建过程可以创建不同的表示，这样的设计模式被称为建造者模式。
 
-![](https://github.com/QianMo/Unity-Design-Pattern/blob/master/UML_Picture/builder.gif)
+![](https://github.com/LionelPerrault/Unity-Design-Pattern/blob/master/UML_Picture/builder.gif)
 
 
 ## Participants

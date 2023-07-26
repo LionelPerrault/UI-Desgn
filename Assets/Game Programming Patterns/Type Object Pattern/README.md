@@ -6,7 +6,7 @@ Allow the flexible creation of new “classes” by creating a single class, eac
 <br>
 通过创建一个类来支持新类型的灵活创建，其每个实例都代表一个不同对象类型。
 
-![](https://github.com/QianMo/Unity-Design-Pattern/blob/master/UML_Picture/type-object.png)
+![](https://github.com/LionelPerrault/Unity-Design-Pattern/blob/master/UML_Picture/type-object.png)
 
 两个类，可以实现无限的种类
 

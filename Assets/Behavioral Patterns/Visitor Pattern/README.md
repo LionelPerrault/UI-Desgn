@@ -4,7 +4,7 @@
 Represent an operation to be performed on the elements of an object structure. Visitor lets you define a new operation without changing the classes of the elements on which it operates.
 <br>封装一些作用于某种数据结构中的各元素的操作，它可以在不改变数据结构的前提下定义作用于这些元素的新的操作。
 
-![](https://github.com/QianMo/Unity-Design-Pattern/blob/master/UML_Picture/visitor.gif)
+![](https://github.com/LionelPerrault/Unity-Design-Pattern/blob/master/UML_Picture/visitor.gif)
 
 
 ## Participants
